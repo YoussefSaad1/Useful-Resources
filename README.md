@@ -2,6 +2,9 @@
 
 ## Arabic NLP:
 1. [12 Useful datasets](https://lionbridge.ai/datasets/best-arabic-datasets-for-machine-learning/)
+```
+Contains Arabic digits recognizer and arabic characters recognizer 
+```
 
 
 ## Kaggle Competitions:
